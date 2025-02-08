@@ -1,0 +1,1 @@
+D:\research\mars\belajar-rust\trait_two\target\debug\trait_two.exe: D:\research\mars\belajar-rust\trait_two\src\calculation_spec.rs D:\research\mars\belajar-rust\trait_two\src\main.rs D:\research\mars\belajar-rust\trait_two\src\two_dimensional.rs
